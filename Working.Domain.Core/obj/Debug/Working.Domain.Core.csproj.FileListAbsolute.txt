@@ -1,0 +1,8 @@
+C:\Users\Homer\Desktop\Working\Working.Domain.Core\bin\Debug\Working.Domain.Core.dll
+C:\Users\Homer\Desktop\Working\Working.Domain.Core\bin\Debug\Working.Domain.Core.pdb
+C:\Users\Homer\Desktop\Working\Working.Domain.Core\obj\Debug\Working.Domain.Core.dll
+C:\Users\Homer\Desktop\Working\Working.Domain.Core\obj\Debug\Working.Domain.Core.pdb
+C:\Users\Homer\Desktop\Working1\Working.Domain.Core\bin\Debug\Working.Domain.Core.dll
+C:\Users\Homer\Desktop\Working1\Working.Domain.Core\bin\Debug\Working.Domain.Core.pdb
+C:\Users\Homer\Desktop\Working1\Working.Domain.Core\obj\Debug\Working.Domain.Core.dll
+C:\Users\Homer\Desktop\Working1\Working.Domain.Core\obj\Debug\Working.Domain.Core.pdb

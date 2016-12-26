@@ -1,0 +1,14 @@
+C:\Users\Homer\Desktop\Working\Working.Domein.Interfaces\bin\Debug\Working.Domein.Interfaces.dll
+C:\Users\Homer\Desktop\Working\Working.Domein.Interfaces\bin\Debug\Working.Domein.Interfaces.pdb
+C:\Users\Homer\Desktop\Working\Working.Domein.Interfaces\bin\Debug\Working.Domain.Core.dll
+C:\Users\Homer\Desktop\Working\Working.Domein.Interfaces\bin\Debug\Working.Domain.Core.pdb
+C:\Users\Homer\Desktop\Working\Working.Domein.Interfaces\obj\Debug\Working.Domain.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\Homer\Desktop\Working\Working.Domein.Interfaces\obj\Debug\Working.Domein.Interfaces.dll
+C:\Users\Homer\Desktop\Working\Working.Domein.Interfaces\obj\Debug\Working.Domein.Interfaces.pdb
+C:\Users\Homer\Desktop\Working1\Working.Domein.Interfaces\bin\Debug\Working.Domein.Interfaces.dll
+C:\Users\Homer\Desktop\Working1\Working.Domein.Interfaces\bin\Debug\Working.Domein.Interfaces.pdb
+C:\Users\Homer\Desktop\Working1\Working.Domein.Interfaces\bin\Debug\Working.Domain.Core.dll
+C:\Users\Homer\Desktop\Working1\Working.Domein.Interfaces\bin\Debug\Working.Domain.Core.pdb
+C:\Users\Homer\Desktop\Working1\Working.Domein.Interfaces\obj\Debug\Working.Domain.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\Homer\Desktop\Working1\Working.Domein.Interfaces\obj\Debug\Working.Domein.Interfaces.dll
+C:\Users\Homer\Desktop\Working1\Working.Domein.Interfaces\obj\Debug\Working.Domein.Interfaces.pdb
